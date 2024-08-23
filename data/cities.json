@@ -1,0 +1,40 @@
+{
+  "cities": [
+    {
+      "id": "7be5",
+      "cityName": "Sumqayit",
+      "country": "Azerbaijan",
+      "emoji": "🇦🇿",
+      "date": "2024-08-23T08:22:01.849Z",
+      "notes": "Best",
+      "position": {
+        "lat": "40.59518511581991",
+        "lng": "49.67090606689454"
+      }
+    },
+    {
+      "id": "f04a",
+      "cityName": "Gori",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-08-23T09:08:54.703Z",
+      "notes": "",
+      "position": {
+        "lat": "42.22851735620852",
+        "lng": "44.05517578125"
+      }
+    },
+    {
+      "id": "7a3d",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-09-17T09:09:18.000Z",
+      "notes": "",
+      "position": {
+        "lat": "39.9602803542957",
+        "lng": "33.22265625000001"
+      }
+    }
+  ]
+}
