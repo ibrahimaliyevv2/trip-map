@@ -13,18 +13,6 @@
       }
     },
     {
-      "id": "f04a",
-      "cityName": "Gori",
-      "country": "Georgia",
-      "emoji": "🇬🇪",
-      "date": "2024-08-23T09:08:54.703Z",
-      "notes": "",
-      "position": {
-        "lat": "42.22851735620852",
-        "lng": "44.05517578125"
-      }
-    },
-    {
       "id": "7a3d",
       "cityName": "Ankara",
       "country": "Turkiye",
@@ -34,6 +22,18 @@
       "position": {
         "lat": "39.9602803542957",
         "lng": "33.22265625000001"
+      }
+    },
+    {
+      "id": "9347",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-08-23T18:36:14.125Z",
+      "notes": "",
+      "position": {
+        "lat": "40.384212768155045",
+        "lng": "-3.6584472656250004"
       }
     }
   ]
